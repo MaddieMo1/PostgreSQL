@@ -1,0 +1,8 @@
+postgresql入门学习：https://www.cnblogs.com/stephen-liu74/archive/2012/06/08/2315679.html
+官网中文教程：https://www.yiibai.com/manual/postgresql/
+https://www.cnblogs.com/wuhenke/archive/2010/08/02/1790747.html
+
+数据库密码：123456
+
+port:5432
+
